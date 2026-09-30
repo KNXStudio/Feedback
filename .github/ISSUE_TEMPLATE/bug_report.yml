@@ -1,0 +1,54 @@
+name: Report a Problem
+description: Tell us about something that isn't working as expected.
+title: "[Bug] "
+labels:
+  - bug
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping to improve KNX Studio!
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: What happened?
+      description: Describe the problem you encountered.
+      placeholder: Tell us what happened...
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect?
+      description: What did you expect KNX Studio to do?
+    validations:
+      required: true
+
+  - type: input
+    id: version
+    attributes:
+      label: KNX Studio version
+      description: You can find this under KNX Studio → About KNX Studio in the menu bar.
+      placeholder: "e.g. 1.0 (202609251430)"
+    validations:
+      required: true
+
+  - type: input
+    id: device
+    attributes:
+      label: KNX device
+      description: If relevant, enter the manufacturer and product.
+      placeholder: "e.g. MDT AKD-0424R.02"
+    validations:
+      required: false
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional information
+      description: Add screenshots, logs, or anything else that might help.
+    validations:
+      required: false
