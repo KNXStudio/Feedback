@@ -1,6 +1,6 @@
 name: Report a Problem
 description: Tell us about something that isn't working as expected.
-title: "[Bug] "
+title: ""
 labels:
   - bug
 
