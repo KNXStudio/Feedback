@@ -8,7 +8,7 @@ Found something that doesn't work as expected? [Report a problem](https://github
 
 ### Suggest an improvement
 
-Have an idea that could make KNX Studio better? [Share your suggestion](https://github.com/KNXStudio/Feedback/issues/new?template=feature_request.yml).
+Have an idea that could make KNX Studio better? [Share your suggestion](https://github.com/KNXStudio/Feedback/issues/new?template=feature_request.yml)
 
 ### Join the discussion
 
