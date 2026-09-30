@@ -6,13 +6,11 @@ Welcome! This is the place to report problems, suggest improvements, and discuss
 
 ### Report a problem
 
-Found something that doesn't work as expected?
-
-[Report a problem](https://github.com/KNXStudio/Feedback/issues/new?template=bug_report.yml)
+Found something that doesn't work as expected? [Report a problem](https://github.com/KNXStudio/Feedback/issues/new?template=bug_report.yml)
 
 ### Suggest an improvement
 
-Have an idea that could make KNX Studio better? [Share your suggestion](../../issues/new).
+Have an idea that could make KNX Studio better? [Share your suggestion]([../../issues/new](https://github.com/KNXStudio/Feedback/issues/new?template=feature_request.yml)).
 
 ### Join the discussion
 
