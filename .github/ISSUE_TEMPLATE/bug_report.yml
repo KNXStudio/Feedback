@@ -24,7 +24,7 @@ body:
       label: What did you expect?
       description: What did you expect KNX Studio to do?
     validations:
-      required: true
+      required: false
 
   - type: input
     id: version
