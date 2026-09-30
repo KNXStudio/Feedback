@@ -4,7 +4,11 @@ Welcome! This is the place to report problems, suggest improvements, and discuss
 
 ### Report a problem
 
-Found something that doesn't work as expected? [Create an issue](../../issues/new) and tell us what happened.
+### Report a problem
+
+Found something that doesn't work as expected?
+
+[Report a problem](https://github.com/KNXStudio/Feedback/issues/new?template=bug_report.yml)
 
 ### Suggest an improvement
 
