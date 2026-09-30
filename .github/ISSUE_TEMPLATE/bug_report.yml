@@ -1,5 +1,6 @@
 name: Report a Problem
 description: Tell us about something that isn't working as expected.
+placeholder: Briefly describe the problem
 labels:
   - bug
 
@@ -33,7 +34,7 @@ body:
       description: You can find this under KNX Studio → About KNX Studio in the menu bar.
       placeholder: "e.g. 1.0 (202609251430)"
     validations:
-      required: true
+      required: false
 
   - type: input
     id: device
