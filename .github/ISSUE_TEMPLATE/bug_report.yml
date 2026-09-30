@@ -1,6 +1,5 @@
 name: Report a Problem
 description: Tell us about something that isn't working as expected.
-placeholder: Briefly describe the problem
 labels:
   - bug
 
